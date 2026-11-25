@@ -1,0 +1,7 @@
+## Resume bullet (use only after you have run and reviewed the project)
+**College Mess Food Waste Analysis | Python, pandas, Matplotlib, Excel**
+- Built a Python data-analysis workflow to calculate food-waste percentages, summarize meal-wise and daily trends, and generate visual reports from a structured CSV dataset.
+- Used synthetic sample data to demonstrate data cleaning, aggregation, and visualization; documented assumptions and limitations.
+
+## Interview explanation (practice in your own words)
+“I created a small data-analysis project related to Industrial Engineering. I used Python and pandas to read a CSV, calculate waste percentage, group the data by meal and date, and create charts using Matplotlib. The included data is synthetic, so I would collect anonymized measurements with permission before making real-world conclusions.”
